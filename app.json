@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "todosomething",
-    "description": "This project is really great.",
+    "description": "This project using by React-native.",
     "slug": "todosomething",
     "privacy": "public",
     "sdkVersion": "26.0.0",
@@ -12,7 +12,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
