@@ -16,7 +16,7 @@
 ![PortFolio Screen Shot](/assets/Write.png?raw=true "Optional Title")
 ![PortFolio Screen Shot](/assets/Writing.png?raw=true "Optional Title")
 
-#Function
+# Function
 
 - Add the to do something
 - if completed, u can mark for that
